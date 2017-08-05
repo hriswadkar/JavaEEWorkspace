@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+package com.luv2code.springdemo;
+
+/**
+ * @author harsh
+ *
+ */
+public class HappyFortuneService implements FortuneService {
+
+	/* (non-Javadoc)
+	 * @see com.luv2code.springdemo.FortuneService#getDailyFortue()
+	 */
+	@Override
+	public String getDailyFortue() {
+		return "Today is your lucky day";
+	}
+
+}
