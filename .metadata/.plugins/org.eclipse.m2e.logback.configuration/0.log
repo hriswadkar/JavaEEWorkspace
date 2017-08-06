@@ -1068,3 +1068,8 @@ org.eclipse.core.internal.resources.ResourceException: Project 'in28minutes-serv
 2017-07-30 06:22:48,428 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
 2017-07-30 14:31:43,934 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 2017-08-05 08:14:18,771 [Worker-6] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-08-05 11:46:40,799 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-08-06 06:21:27,294 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-08-06 07:07:37,009 [Worker-41] WARN  org.eclipse.jgit.util.FS_Win32 - null
+2017-08-06 15:01:32,342 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-08-06 15:01:39,841 [Worker-5] WARN  org.eclipse.jgit.util.FS_Win32 - null
