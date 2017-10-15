@@ -20,7 +20,7 @@ public class EmployeeSerializer implements Serializer<Employee> {
 		int sizeOfEmpName;
 		int sizeofDeptName;
 		
-		byte[] serializedEmpId = null;
+		byte[] serializedEmpId = new byte[4];
 		byte[] serializedEmpName;
 		byte[] serializedDeptName;
 		ByteBuffer buf = null;

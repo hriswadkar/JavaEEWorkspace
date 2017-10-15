@@ -11,7 +11,7 @@ public class ComplexKafkaProducer {
 
 	public static void main(String[] args) {
 		Properties properties=new Properties();
-		properties.put("bootstrap.servers", "localhost:9093");
+		properties.put("bootstrap.servers", "localhost:9093,localhost:9094,localhost:9095");
 		properties.put("acks", "all");
 		//properties.put("key.serializer", "org.apache.kafka.common.serialization.ByteArraySerializer");
 		//properties.put("value.serializer", "org.apache.kafka.common.serialization.ByteArraySerializer");

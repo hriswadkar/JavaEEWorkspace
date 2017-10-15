@@ -15,7 +15,7 @@ public class ComplexKafkaConsumer {
 
 	public static void main(String[] args) {
 		Properties properties=new Properties();
-		properties.setProperty("bootstrap.servers", "localhost:9094");
+		properties.setProperty("bootstrap.servers", "localhost:9093,localhost:9094,localhost:9095");
 		properties.setProperty("group.id", "test2");
 		properties.setProperty("enable.auto.commit", "false");
 		properties.setProperty("auto.offset.reset", "earliest");
