@@ -4,12 +4,14 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="com.learnkafka"/>
 			<item value="com.in28minpractice"/>
 			<item value="com.in28minutespractice"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="learnkafka"/>
 			<item value="first-web-application"/>
 		</list>
 		<list key="projectNameTemplate">

@@ -11,7 +11,19 @@
 <fullyQualifiedTypeName name="java.io.PrintWriter"/>
 <fullyQualifiedTypeName name="java.util.concurrent.ThreadLocalRandom"/>
 <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
-<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
-<fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
 <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Qualifier"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="javax.naming.Context"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+<fullyQualifiedTypeName name="kafka.producer.KeyedMessage"/>
+<fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+<fullyQualifiedTypeName name="kafka.javaapi.producer.Producer"/>
+<fullyQualifiedTypeName name="org.apache.kafka.clients.producer.KafkaProducer"/>
+<fullyQualifiedTypeName name="java.util.Properties"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="com.learnkafka.complex.obj.Employee"/>
+<fullyQualifiedTypeName name="org.apache.kafka.clients.producer.ProducerRecord"/>
+<fullyQualifiedTypeName name="org.apache.kafka.clients.consumer.KafkaConsumer"/>
+<fullyQualifiedTypeName name="org.apache.kafka.clients.consumer.ConsumerRecord"/>
 </qualifiedTypeNameHistroy>
