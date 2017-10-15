@@ -16,4 +16,16 @@ public class Employee {
 		this.empName = empName;
 		this.deptName = deptName;
 	}
+	
+	public int getEmpId() {
+		return this.empId;
+	}
+	
+	public String getEmpName() {
+		return this.empName;
+	}
+	
+	public String getDeptName() {
+		return this.deptName;
+	}
 }
