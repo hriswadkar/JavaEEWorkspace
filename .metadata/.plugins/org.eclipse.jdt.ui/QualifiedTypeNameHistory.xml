@@ -21,9 +21,13 @@
 <fullyQualifiedTypeName name="org.apache.kafka.clients.producer.KafkaProducer"/>
 <fullyQualifiedTypeName name="java.util.Properties"/>
 <fullyQualifiedTypeName name="java.util.Arrays"/>
-<fullyQualifiedTypeName name="java.io.Serializable"/>
 <fullyQualifiedTypeName name="com.learnkafka.complex.obj.Employee"/>
+<fullyQualifiedTypeName name="org.apache.kafka.clients.consumer.ConsumerRecord"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="org.apache.kafka.common.serialization.Deserializer"/>
+<fullyQualifiedTypeName name="com.fasterxml.jackson.databind.ObjectMapper"/>
 <fullyQualifiedTypeName name="org.apache.kafka.clients.producer.ProducerRecord"/>
 <fullyQualifiedTypeName name="org.apache.kafka.clients.consumer.KafkaConsumer"/>
-<fullyQualifiedTypeName name="org.apache.kafka.clients.consumer.ConsumerRecord"/>
 </qualifiedTypeNameHistroy>
